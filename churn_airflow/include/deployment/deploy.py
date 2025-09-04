@@ -11,7 +11,7 @@ import json
 import os
 
 # ---- Setup ----
-MODELS_DIR = "/usr/local/airflow/dags/data/models"
+MODELS_DIR = "../../dags/data/models"
 
 #BASE_DIR = Path(__file__).resolve().parent.parent
 #MODELS_DIR = BASE_DIR / "data" / "models"
