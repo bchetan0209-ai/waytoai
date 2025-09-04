@@ -74,7 +74,7 @@ def seed_raw_from_include():
             rel = os.path.relpath(src, RAW_SRC_DIR)
             dst = os.path.join(RAW_BASE, rel)
             Path(os.path.dirname(dst)).mkdir(parents=True, exist_ok=True)
-            shutil.copy2(src, dst)
+            shutil.copyfile(src, dst)
 
 
 def _latest_file(directory: str, pattern: str = "*.csv") -> Optional[str]:
