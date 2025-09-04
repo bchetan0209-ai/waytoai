@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/churn_airflow-local/mlruns/591139175500016198/18ac2941e20540fd82efa69424292bce/artifacts
+end_time: 1756031861518
+entry_point_name: ''
+experiment_id: '591139175500016198'
+lifecycle_stage: active
+run_id: 18ac2941e20540fd82efa69424292bce
+run_name: logistic_regression_20250824_160731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756031855312
+status: 3
+tags: []
+user_id: Balaji

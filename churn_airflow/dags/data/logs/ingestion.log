@@ -1,0 +1,54 @@
+2025-08-24 13:56:26,720 INFO Ingested /usr/local/airflow/dags/data/raw/source_csv/web_events.csv -> /usr/local/airflow/dags/data/ingested/2025-08-24_13-56-26/web_events.csv
+2025-08-24 13:56:26,750 INFO Ingested /usr/local/airflow/dags/data/raw/source_api/subscriptions.json -> /usr/local/airflow/dags/data/ingested/2025-08-24_13-56-26/subscriptions.json
+2025-08-24 13:56:26,750 INFO ✅ Ingestion complete. Files copied to /usr/local/airflow/dags/data/ingested/2025-08-24_13-56-26
+2025-08-24 14:07:13,115 INFO Ingested /usr/local/airflow/dags/data/raw/source_csv/web_events.csv -> /usr/local/airflow/dags/data/ingested/2025-08-24_14-07-13/web_events.csv
+2025-08-24 14:07:13,150 INFO Ingested /usr/local/airflow/dags/data/raw/source_api/subscriptions.json -> /usr/local/airflow/dags/data/ingested/2025-08-24_14-07-13/subscriptions.json
+2025-08-24 14:07:13,150 INFO ✅ Ingestion complete. Files copied to /usr/local/airflow/dags/data/ingested/2025-08-24_14-07-13
+2025-08-24 14:14:30,621 INFO Ingested /usr/local/airflow/dags/data/raw/source_csv/web_events.csv -> /usr/local/airflow/dags/data/ingested/2025-08-24_14-14-30/web_events.csv
+2025-08-24 14:14:30,679 INFO Ingested /usr/local/airflow/dags/data/raw/source_api/subscriptions.json -> /usr/local/airflow/dags/data/ingested/2025-08-24_14-14-30/subscriptions.json
+2025-08-24 14:14:30,679 INFO ✅ Ingestion complete. Files copied to /usr/local/airflow/dags/data/ingested/2025-08-24_14-14-30
+2025-08-24 14:17:03,079 INFO Ingested /usr/local/airflow/dags/data/raw/source_csv/web_events.csv -> /usr/local/airflow/dags/data/ingested/2025-08-24_14-17-03/web_events.csv
+2025-08-24 14:17:03,117 INFO Ingested /usr/local/airflow/dags/data/raw/source_api/subscriptions.json -> /usr/local/airflow/dags/data/ingested/2025-08-24_14-17-03/subscriptions.json
+2025-08-24 14:17:03,118 INFO ✅ Ingestion complete. Files copied to /usr/local/airflow/dags/data/ingested/2025-08-24_14-17-03
+2025-08-24 14:22:01,194 INFO Ingested /usr/local/airflow/dags/data/raw/source_csv/web_events.csv -> /usr/local/airflow/dags/data/ingested/2025-08-24_14-22-01/web_events.csv
+2025-08-24 14:22:01,267 INFO Ingested /usr/local/airflow/dags/data/raw/source_api/subscriptions.json -> /usr/local/airflow/dags/data/ingested/2025-08-24_14-22-01/subscriptions.json
+2025-08-24 14:22:01,268 INFO ✅ Ingestion complete. Files copied to /usr/local/airflow/dags/data/ingested/2025-08-24_14-22-01
+2025-08-24 14:24:58,499 INFO Ingested /usr/local/airflow/dags/data/raw/source_csv/web_events.csv -> /usr/local/airflow/dags/data/ingested/2025-08-24_14-24-58/web_events.csv
+2025-08-24 14:24:58,535 INFO Ingested /usr/local/airflow/dags/data/raw/source_api/subscriptions.json -> /usr/local/airflow/dags/data/ingested/2025-08-24_14-24-58/subscriptions.json
+2025-08-24 14:24:58,535 INFO ✅ Ingestion complete. Files copied to /usr/local/airflow/dags/data/ingested/2025-08-24_14-24-58
+2025-08-24 14:40:46,623 INFO Ingested /usr/local/airflow/dags/data/raw/source_csv/web_events.csv -> /usr/local/airflow/dags/data/ingested/2025-08-24_14-40-46/web_events.csv
+2025-08-24 14:40:46,701 INFO Ingested /usr/local/airflow/dags/data/raw/source_api/subscriptions.json -> /usr/local/airflow/dags/data/ingested/2025-08-24_14-40-46/subscriptions.json
+2025-08-24 14:40:46,702 INFO ✅ Ingestion complete. Files copied to /usr/local/airflow/dags/data/ingested/2025-08-24_14-40-46
+2025-08-24 14:46:56,126 INFO Ingested /usr/local/airflow/dags/data/raw/source_csv/web_events.csv -> /usr/local/airflow/dags/data/ingested/2025-08-24_14-46-56/web_events.csv
+2025-08-24 14:46:56,177 INFO Ingested /usr/local/airflow/dags/data/raw/source_api/subscriptions.json -> /usr/local/airflow/dags/data/ingested/2025-08-24_14-46-56/subscriptions.json
+2025-08-24 14:46:56,177 INFO ✅ Ingestion complete. Files copied to /usr/local/airflow/dags/data/ingested/2025-08-24_14-46-56
+2025-08-24 14:50:44,647 INFO Ingested /usr/local/airflow/dags/data/raw/source_csv/web_events.csv -> /usr/local/airflow/dags/data/ingested/2025-08-24_14-50-44/web_events.csv
+2025-08-24 14:50:44,692 INFO Ingested /usr/local/airflow/dags/data/raw/source_api/subscriptions.json -> /usr/local/airflow/dags/data/ingested/2025-08-24_14-50-44/subscriptions.json
+2025-08-24 14:50:44,692 INFO ✅ Ingestion complete. Files copied to /usr/local/airflow/dags/data/ingested/2025-08-24_14-50-44
+2025-08-24 14:53:59,285 INFO Ingested /usr/local/airflow/dags/data/raw/source_csv/web_events.csv -> /usr/local/airflow/dags/data/ingested/2025-08-24_14-53-59/web_events.csv
+2025-08-24 14:53:59,342 INFO Ingested /usr/local/airflow/dags/data/raw/source_api/subscriptions.json -> /usr/local/airflow/dags/data/ingested/2025-08-24_14-53-59/subscriptions.json
+2025-08-24 14:53:59,342 INFO ✅ Ingestion complete. Files copied to /usr/local/airflow/dags/data/ingested/2025-08-24_14-53-59
+2025-08-24 15:00:48,202 INFO Ingested /usr/local/airflow/dags/data/raw/source_csv/web_events.csv -> /usr/local/airflow/dags/data/ingested/2025-08-24_15-00-48/web_events.csv
+2025-08-24 15:00:48,294 INFO Ingested /usr/local/airflow/dags/data/raw/source_api/subscriptions.json -> /usr/local/airflow/dags/data/ingested/2025-08-24_15-00-48/subscriptions.json
+2025-08-24 15:00:48,294 INFO ✅ Ingestion complete. Files copied to /usr/local/airflow/dags/data/ingested/2025-08-24_15-00-48
+2025-08-24 15:06:54,573 INFO Ingested /usr/local/airflow/dags/data/raw/source_csv/web_events.csv -> /usr/local/airflow/dags/data/ingested/2025-08-24_15-06-54/web_events.csv
+2025-08-24 15:06:54,602 INFO Ingested /usr/local/airflow/dags/data/raw/source_api/subscriptions.json -> /usr/local/airflow/dags/data/ingested/2025-08-24_15-06-54/subscriptions.json
+2025-08-24 15:06:54,603 INFO ✅ Ingestion complete. Files copied to /usr/local/airflow/dags/data/ingested/2025-08-24_15-06-54
+2025-08-24 15:09:40,035 INFO Ingested /usr/local/airflow/dags/data/raw/source_csv/web_events.csv -> /usr/local/airflow/dags/data/ingested/2025-08-24_15-09-40/web_events.csv
+2025-08-24 15:09:40,078 INFO Ingested /usr/local/airflow/dags/data/raw/source_api/subscriptions.json -> /usr/local/airflow/dags/data/ingested/2025-08-24_15-09-40/subscriptions.json
+2025-08-24 15:09:40,079 INFO ✅ Ingestion complete. Files copied to /usr/local/airflow/dags/data/ingested/2025-08-24_15-09-40
+2025-08-24 15:29:36,338 INFO Ingested /usr/local/airflow/dags/data/raw/source_csv/web_events.csv -> /usr/local/airflow/dags/data/ingested/2025-08-24_15-29-36/web_events.csv
+2025-08-24 15:29:36,386 INFO Ingested /usr/local/airflow/dags/data/raw/source_api/subscriptions.json -> /usr/local/airflow/dags/data/ingested/2025-08-24_15-29-36/subscriptions.json
+2025-08-24 15:29:36,386 INFO ✅ Ingestion complete. Files copied to /usr/local/airflow/dags/data/ingested/2025-08-24_15-29-36
+2025-08-24 15:53:42,947 INFO Ingested /usr/local/airflow/dags/data/raw/source_csv/web_events.csv -> /usr/local/airflow/dags/data/ingested/2025-08-24_15-53-42/web_events.csv
+2025-08-24 15:53:42,974 INFO Ingested /usr/local/airflow/dags/data/raw/source_api/subscriptions.json -> /usr/local/airflow/dags/data/ingested/2025-08-24_15-53-42/subscriptions.json
+2025-08-24 15:53:42,974 INFO ✅ Ingestion complete. Files copied to /usr/local/airflow/dags/data/ingested/2025-08-24_15-53-42
+2025-08-24 16:01:16,720 INFO Ingested /usr/local/airflow/dags/data/raw/source_csv/web_events.csv -> /usr/local/airflow/dags/data/ingested/2025-08-24_16-01-16/web_events.csv
+2025-08-24 16:01:16,820 INFO Ingested /usr/local/airflow/dags/data/raw/source_api/subscriptions.json -> /usr/local/airflow/dags/data/ingested/2025-08-24_16-01-16/subscriptions.json
+2025-08-24 16:01:16,821 INFO ✅ Ingestion complete. Files copied to /usr/local/airflow/dags/data/ingested/2025-08-24_16-01-16
+2025-08-24 16:15:02,680 INFO Ingested /usr/local/airflow/dags/data/raw/source_csv/web_events.csv -> /usr/local/airflow/dags/data/ingested/2025-08-24_16-15-02/web_events.csv
+2025-08-24 16:15:02,711 INFO Ingested /usr/local/airflow/dags/data/raw/source_api/subscriptions.json -> /usr/local/airflow/dags/data/ingested/2025-08-24_16-15-02/subscriptions.json
+2025-08-24 16:15:02,712 INFO ✅ Ingestion complete. Files copied to /usr/local/airflow/dags/data/ingested/2025-08-24_16-15-02
+2025-08-24 16:53:55,148 INFO Ingested /usr/local/airflow/dags/data/raw/source_csv/web_events.csv -> /usr/local/airflow/dags/data/ingested/2025-08-24_16-53-55/web_events.csv
+2025-08-24 16:53:55,177 INFO Ingested /usr/local/airflow/dags/data/raw/source_api/subscriptions.json -> /usr/local/airflow/dags/data/ingested/2025-08-24_16-53-55/subscriptions.json
+2025-08-24 16:53:55,178 INFO ✅ Ingestion complete. Files copied to /usr/local/airflow/dags/data/ingested/2025-08-24_16-53-55

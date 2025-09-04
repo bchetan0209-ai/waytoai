@@ -1,0 +1,28 @@
+feature_sets:
+  customer_engagement:v1:
+    name: customer_engagement
+    version: v1
+    description: Customer engagement & value engineered features (v1).
+    source: dags/scripts/transform.py
+    primary_key: customer_id
+    features:
+      avg_monthly_spend_per_invoice:
+        dtype: float64
+        description: Monthly spend normalized by invoice count.
+      avg_monthly_spend_per_invoice_scaled:
+        dtype: float64
+        description: Feature `avg_monthly_spend_per_invoice_scaled`.
+      engagement_score:
+        dtype: float64
+        description: Composite engagement metric from sessions, pages and time on
+          site.
+      engagement_score_scaled:
+        dtype: float64
+        description: Feature `engagement_score_scaled`.
+      tenure_proxy:
+        dtype: float64
+        description: 'Proxy for tenure: last_seen_at - sign_up_date.'
+      tenure_proxy_scaled:
+        dtype: float64
+        description: Feature `tenure_proxy_scaled`.
+    materialization_path: /usr/local/airflow/dags/feature_store/customer_engagement_v1.parquet

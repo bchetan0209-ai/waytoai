@@ -1,0 +1,3 @@
+,subscriptions.json,web_events.csv
+missing,{},{}
+columns,"['customer_id', 'plan', 'monthly_spend', 'invoices', 'last_payment_date', 'payment_status']","['customer_id', 'sign_up_date', 'last_seen_at', 'sessions_30d', 'pages_viewed_30d', 'time_on_site_sec_30d', 'device_type', 'region', 'channel', 'age_band', 'is_churn']"

@@ -1,0 +1,8 @@
+2025-08-24 15:01:32,989 INFO Loading model -> /usr/local/airflow/dags/data/models/random_forest_20250824_150113.pkl
+2025-08-24 15:07:30,465 INFO Loading model -> /usr/local/airflow/dags/data/models/random_forest_20250824_150717.pkl
+2025-08-24 15:10:15,987 INFO Loading model -> /usr/local/airflow/dags/data/models/random_forest_20250824_151002.pkl
+2025-08-24 15:31:52,849 INFO Loading model -> /usr/local/airflow/dags/data/models/random_forest_20250824_153124.pkl
+2025-08-24 15:54:20,829 INFO Loading model -> /usr/local/airflow/dags/data/models/random_forest_20250824_155407.pkl
+2025-08-24 16:02:21,663 INFO Loading model -> /usr/local/airflow/dags/data/models/random_forest_20250824_160206.pkl
+2025-08-24 16:15:36,976 INFO Loading model -> /usr/local/airflow/dags/data/models/random_forest_20250824_161523.pkl
+2025-08-24 16:54:29,046 INFO Loading model -> /usr/local/airflow/dags/data/models/random_forest_20250824_165415.pkl

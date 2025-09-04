@@ -1,0 +1,6 @@
+artifact_location: file:///C:/churn_airflow-local/mlruns/591139175500016198
+creation_time: 1756031854989
+experiment_id: '591139175500016198'
+last_update_time: 1756031854989
+lifecycle_stage: active
+name: churn_models

@@ -1,0 +1,221 @@
+2025-08-24 14:07:32,116 INFO Loading prepared dataset /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_14-07-13.csv
+2025-08-24 14:07:32,150 INFO Initial dataset shape: (3000, 30)
+2025-08-24 14:07:32,151 INFO Starting feature engineering with shape: (3000, 30)
+2025-08-24 14:07:32,152 INFO Feature created: avg_monthly_spend_per_invoice
+2025-08-24 14:07:32,154 INFO Feature created: engagement_score
+2025-08-24 14:07:32,155 INFO Feature created: tenure_proxy
+2025-08-24 14:07:32,159 INFO Scaled feature created: avg_monthly_spend_per_invoice_scaled
+2025-08-24 14:07:32,161 INFO Scaled feature created: engagement_score_scaled
+2025-08-24 14:07:32,162 INFO Scaled feature created: tenure_proxy_scaled
+2025-08-24 14:07:32,162 INFO Completed feature engineering. New shape: (3000, 36)
+2025-08-24 14:07:32,407 INFO Transformed data saved at /usr/local/airflow/dags/data/transformed/transformed.csv with shape (3000, 36)
+2025-08-24 14:07:32,445 INFO Transformation summary saved at /usr/local/airflow/dags/data/transformed/transformation_summary.md
+2025-08-24 14:07:32,446 INFO ✅ Transformation complete. Outputs saved in /usr/local/airflow/dags/data/transformed
+2025-08-24 14:14:45,526 INFO Loading prepared dataset /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_14-14-30.csv
+2025-08-24 14:14:45,582 INFO Initial dataset shape: (3000, 30)
+2025-08-24 14:14:45,582 INFO Starting feature engineering with shape: (3000, 30)
+2025-08-24 14:14:45,584 INFO Feature created: avg_monthly_spend_per_invoice
+2025-08-24 14:14:45,585 INFO Feature created: engagement_score
+2025-08-24 14:14:45,586 INFO Feature created: tenure_proxy
+2025-08-24 14:14:45,589 INFO Scaled feature created: avg_monthly_spend_per_invoice_scaled
+2025-08-24 14:14:45,590 INFO Scaled feature created: engagement_score_scaled
+2025-08-24 14:14:45,590 INFO Scaled feature created: tenure_proxy_scaled
+2025-08-24 14:14:45,591 INFO Completed feature engineering. New shape: (3000, 36)
+2025-08-24 14:14:45,731 INFO Transformed data saved at /usr/local/airflow/dags/data/transformed/transformed.csv with shape (3000, 36)
+2025-08-24 14:14:45,749 INFO Transformation summary saved at /usr/local/airflow/dags/data/transformed/transformation_summary.md
+2025-08-24 14:14:45,749 INFO ✅ Transformation complete. Outputs saved in /usr/local/airflow/dags/data/transformed
+2025-08-24 14:17:31,423 INFO Loading prepared dataset /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_14-17-03.csv
+2025-08-24 14:17:31,476 INFO Initial dataset shape: (3000, 30)
+2025-08-24 14:17:31,476 INFO Starting feature engineering with shape: (3000, 30)
+2025-08-24 14:17:31,483 INFO Feature created: avg_monthly_spend_per_invoice
+2025-08-24 14:17:31,486 INFO Feature created: engagement_score
+2025-08-24 14:17:31,488 INFO Feature created: tenure_proxy
+2025-08-24 14:17:31,495 INFO Scaled feature created: avg_monthly_spend_per_invoice_scaled
+2025-08-24 14:17:31,497 INFO Scaled feature created: engagement_score_scaled
+2025-08-24 14:17:31,500 INFO Scaled feature created: tenure_proxy_scaled
+2025-08-24 14:17:31,501 INFO Completed feature engineering. New shape: (3000, 36)
+2025-08-24 14:17:31,714 INFO Transformed data saved at /usr/local/airflow/dags/data/transformed/transformed.csv with shape (3000, 36)
+2025-08-24 14:17:31,774 INFO Transformation summary saved at /usr/local/airflow/dags/data/transformed/transformation_summary.md
+2025-08-24 14:17:31,775 INFO ✅ Transformation complete. Outputs saved in /usr/local/airflow/dags/data/transformed
+2025-08-24 14:22:15,727 INFO Loading prepared dataset /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_14-22-01.csv
+2025-08-24 14:22:15,749 INFO Initial dataset shape: (3000, 30)
+2025-08-24 14:22:15,749 INFO Starting feature engineering with shape: (3000, 30)
+2025-08-24 14:22:15,750 INFO Feature created: avg_monthly_spend_per_invoice
+2025-08-24 14:22:15,751 INFO Feature created: engagement_score
+2025-08-24 14:22:15,752 INFO Feature created: tenure_proxy
+2025-08-24 14:22:15,755 INFO Scaled feature created: avg_monthly_spend_per_invoice_scaled
+2025-08-24 14:22:15,756 INFO Scaled feature created: engagement_score_scaled
+2025-08-24 14:22:15,756 INFO Scaled feature created: tenure_proxy_scaled
+2025-08-24 14:22:15,757 INFO Completed feature engineering. New shape: (3000, 36)
+2025-08-24 14:22:15,839 INFO Transformed data saved at /usr/local/airflow/dags/data/transformed/transformed.csv with shape (3000, 36)
+2025-08-24 14:22:15,855 INFO Transformation summary saved at /usr/local/airflow/dags/data/transformed/transformation_summary.md
+2025-08-24 14:22:15,855 INFO ✅ Transformation complete. Outputs saved in /usr/local/airflow/dags/data/transformed
+2025-08-24 14:25:26,841 INFO Loading prepared dataset /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_14-24-58.csv
+2025-08-24 14:25:26,870 INFO Initial dataset shape: (3000, 30)
+2025-08-24 14:25:26,870 INFO Starting feature engineering with shape: (3000, 30)
+2025-08-24 14:25:26,872 INFO Feature created: avg_monthly_spend_per_invoice
+2025-08-24 14:25:26,873 INFO Feature created: engagement_score
+2025-08-24 14:25:26,874 INFO Feature created: tenure_proxy
+2025-08-24 14:25:26,877 INFO Scaled feature created: avg_monthly_spend_per_invoice_scaled
+2025-08-24 14:25:26,878 INFO Scaled feature created: engagement_score_scaled
+2025-08-24 14:25:26,878 INFO Scaled feature created: tenure_proxy_scaled
+2025-08-24 14:25:26,879 INFO Completed feature engineering. New shape: (3000, 36)
+2025-08-24 14:25:27,011 INFO Transformed data saved at /usr/local/airflow/dags/data/transformed/transformed.csv with shape (3000, 36)
+2025-08-24 14:25:27,030 INFO Transformation summary saved at /usr/local/airflow/dags/data/transformed/transformation_summary.md
+2025-08-24 14:25:27,030 INFO ✅ Transformation complete. Outputs saved in /usr/local/airflow/dags/data/transformed
+2025-08-24 14:41:03,278 INFO Loading prepared dataset /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_14-40-46.csv
+2025-08-24 14:41:03,313 INFO Initial dataset shape: (3000, 30)
+2025-08-24 14:41:03,314 INFO Starting feature engineering with shape: (3000, 30)
+2025-08-24 14:41:03,316 INFO Feature created: avg_monthly_spend_per_invoice
+2025-08-24 14:41:03,319 INFO Feature created: engagement_score
+2025-08-24 14:41:03,320 INFO Feature created: tenure_proxy
+2025-08-24 14:41:03,325 INFO Scaled feature created: avg_monthly_spend_per_invoice_scaled
+2025-08-24 14:41:03,326 INFO Scaled feature created: engagement_score_scaled
+2025-08-24 14:41:03,327 INFO Scaled feature created: tenure_proxy_scaled
+2025-08-24 14:41:03,328 INFO Completed feature engineering. New shape: (3000, 36)
+2025-08-24 14:41:03,456 INFO Transformed data saved at /usr/local/airflow/dags/data/transformed/transformed.csv with shape (3000, 36)
+2025-08-24 14:41:03,468 INFO Transformation summary saved at /usr/local/airflow/dags/data/transformed/transformation_summary.md
+2025-08-24 14:41:03,468 INFO ✅ Transformation complete. Outputs saved in /usr/local/airflow/dags/data/transformed
+2025-08-24 14:47:11,465 INFO Loading prepared dataset /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_14-46-56.csv
+2025-08-24 14:47:11,540 INFO Initial dataset shape: (3000, 30)
+2025-08-24 14:47:11,540 INFO Starting feature engineering with shape: (3000, 30)
+2025-08-24 14:47:11,542 INFO Feature created: avg_monthly_spend_per_invoice
+2025-08-24 14:47:11,543 INFO Feature created: engagement_score
+2025-08-24 14:47:11,543 INFO Feature created: tenure_proxy
+2025-08-24 14:47:11,547 INFO Scaled feature created: avg_monthly_spend_per_invoice_scaled
+2025-08-24 14:47:11,548 INFO Scaled feature created: engagement_score_scaled
+2025-08-24 14:47:11,548 INFO Scaled feature created: tenure_proxy_scaled
+2025-08-24 14:47:11,548 INFO Completed feature engineering. New shape: (3000, 36)
+2025-08-24 14:47:11,652 INFO Transformed data saved at /usr/local/airflow/dags/data/transformed/transformed.csv with shape (3000, 36)
+2025-08-24 14:47:11,672 INFO Transformation summary saved at /usr/local/airflow/dags/data/transformed/transformation_summary.md
+2025-08-24 14:47:11,673 INFO ✅ Transformation complete. Outputs saved in /usr/local/airflow/dags/data/transformed
+2025-08-24 14:51:00,812 INFO Loading prepared dataset /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_14-50-44.csv
+2025-08-24 14:51:01,018 INFO Initial dataset shape: (3000, 30)
+2025-08-24 14:51:01,019 INFO Starting feature engineering with shape: (3000, 30)
+2025-08-24 14:51:01,021 INFO Feature created: avg_monthly_spend_per_invoice
+2025-08-24 14:51:01,023 INFO Feature created: engagement_score
+2025-08-24 14:51:01,024 INFO Feature created: tenure_proxy
+2025-08-24 14:51:01,031 INFO Scaled feature created: avg_monthly_spend_per_invoice_scaled
+2025-08-24 14:51:01,033 INFO Scaled feature created: engagement_score_scaled
+2025-08-24 14:51:01,035 INFO Scaled feature created: tenure_proxy_scaled
+2025-08-24 14:51:01,035 INFO Completed feature engineering. New shape: (3000, 36)
+2025-08-24 14:51:01,216 INFO Transformed data saved at /usr/local/airflow/dags/data/transformed/transformed.csv with shape (3000, 36)
+2025-08-24 14:51:01,235 INFO Transformation summary saved at /usr/local/airflow/dags/data/transformed/transformation_summary.md
+2025-08-24 14:51:01,236 INFO ✅ Transformation complete. Outputs saved in /usr/local/airflow/dags/data/transformed
+2025-08-24 14:54:25,059 INFO Loading prepared dataset /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_14-53-59.csv
+2025-08-24 14:54:25,090 INFO Initial dataset shape: (3000, 30)
+2025-08-24 14:54:25,091 INFO Starting feature engineering with shape: (3000, 30)
+2025-08-24 14:54:25,092 INFO Feature created: avg_monthly_spend_per_invoice
+2025-08-24 14:54:25,093 INFO Feature created: engagement_score
+2025-08-24 14:54:25,094 INFO Feature created: tenure_proxy
+2025-08-24 14:54:25,098 INFO Scaled feature created: avg_monthly_spend_per_invoice_scaled
+2025-08-24 14:54:25,098 INFO Scaled feature created: engagement_score_scaled
+2025-08-24 14:54:25,099 INFO Scaled feature created: tenure_proxy_scaled
+2025-08-24 14:54:25,099 INFO Completed feature engineering. New shape: (3000, 36)
+2025-08-24 14:54:25,257 INFO Transformed data saved at /usr/local/airflow/dags/data/transformed/transformed.csv with shape (3000, 36)
+2025-08-24 14:54:25,268 INFO Transformation summary saved at /usr/local/airflow/dags/data/transformed/transformation_summary.md
+2025-08-24 14:54:25,269 INFO ✅ Transformation complete. Outputs saved in /usr/local/airflow/dags/data/transformed
+2025-08-24 15:01:08,434 INFO Loading prepared dataset /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_15-00-48.csv
+2025-08-24 15:01:08,510 INFO Initial dataset shape: (3000, 30)
+2025-08-24 15:01:08,512 INFO Starting feature engineering with shape: (3000, 30)
+2025-08-24 15:01:08,515 INFO Feature created: avg_monthly_spend_per_invoice
+2025-08-24 15:01:08,518 INFO Feature created: engagement_score
+2025-08-24 15:01:08,520 INFO Feature created: tenure_proxy
+2025-08-24 15:01:08,529 INFO Scaled feature created: avg_monthly_spend_per_invoice_scaled
+2025-08-24 15:01:08,532 INFO Scaled feature created: engagement_score_scaled
+2025-08-24 15:01:08,533 INFO Scaled feature created: tenure_proxy_scaled
+2025-08-24 15:01:08,534 INFO Completed feature engineering. New shape: (3000, 36)
+2025-08-24 15:01:08,787 INFO Transformed data saved at /usr/local/airflow/dags/data/transformed/transformed.csv with shape (3000, 36)
+2025-08-24 15:01:08,814 INFO Transformation summary saved at /usr/local/airflow/dags/data/transformed/transformation_summary.md
+2025-08-24 15:01:08,814 INFO ✅ Transformation complete. Outputs saved in /usr/local/airflow/dags/data/transformed
+2025-08-24 15:07:10,229 INFO Loading prepared dataset /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_15-06-54.csv
+2025-08-24 15:07:10,247 INFO Initial dataset shape: (3000, 30)
+2025-08-24 15:07:10,247 INFO Starting feature engineering with shape: (3000, 30)
+2025-08-24 15:07:10,250 INFO Feature created: avg_monthly_spend_per_invoice
+2025-08-24 15:07:10,252 INFO Feature created: engagement_score
+2025-08-24 15:07:10,252 INFO Feature created: tenure_proxy
+2025-08-24 15:07:10,256 INFO Scaled feature created: avg_monthly_spend_per_invoice_scaled
+2025-08-24 15:07:10,257 INFO Scaled feature created: engagement_score_scaled
+2025-08-24 15:07:10,258 INFO Scaled feature created: tenure_proxy_scaled
+2025-08-24 15:07:10,258 INFO Completed feature engineering. New shape: (3000, 36)
+2025-08-24 15:07:10,405 INFO Transformed data saved at /usr/local/airflow/dags/data/transformed/transformed.csv with shape (3000, 36)
+2025-08-24 15:07:10,423 INFO Transformation summary saved at /usr/local/airflow/dags/data/transformed/transformation_summary.md
+2025-08-24 15:07:10,424 INFO ✅ Transformation complete. Outputs saved in /usr/local/airflow/dags/data/transformed
+2025-08-24 15:09:56,148 INFO Loading prepared dataset /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_15-09-40.csv
+2025-08-24 15:09:56,192 INFO Initial dataset shape: (3000, 30)
+2025-08-24 15:09:56,193 INFO Starting feature engineering with shape: (3000, 30)
+2025-08-24 15:09:56,195 INFO Feature created: avg_monthly_spend_per_invoice
+2025-08-24 15:09:56,197 INFO Feature created: engagement_score
+2025-08-24 15:09:56,199 INFO Feature created: tenure_proxy
+2025-08-24 15:09:56,205 INFO Scaled feature created: avg_monthly_spend_per_invoice_scaled
+2025-08-24 15:09:56,207 INFO Scaled feature created: engagement_score_scaled
+2025-08-24 15:09:56,208 INFO Scaled feature created: tenure_proxy_scaled
+2025-08-24 15:09:56,209 INFO Completed feature engineering. New shape: (3000, 36)
+2025-08-24 15:09:56,359 INFO Transformed data saved at /usr/local/airflow/dags/data/transformed/transformed.csv with shape (3000, 36)
+2025-08-24 15:09:56,386 INFO Transformation summary saved at /usr/local/airflow/dags/data/transformed/transformation_summary.md
+2025-08-24 15:09:56,387 INFO ✅ Transformation complete. Outputs saved in /usr/local/airflow/dags/data/transformed
+2025-08-24 15:29:53,412 INFO Loading prepared dataset /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_15-29-36.csv
+2025-08-24 15:29:53,435 INFO Initial dataset shape: (3000, 30)
+2025-08-24 15:29:53,436 INFO Starting feature engineering with shape: (3000, 30)
+2025-08-24 15:29:53,437 INFO Feature created: avg_monthly_spend_per_invoice
+2025-08-24 15:29:53,438 INFO Feature created: engagement_score
+2025-08-24 15:29:53,438 INFO Feature created: tenure_proxy
+2025-08-24 15:29:53,442 INFO Scaled feature created: avg_monthly_spend_per_invoice_scaled
+2025-08-24 15:29:53,443 INFO Scaled feature created: engagement_score_scaled
+2025-08-24 15:29:53,443 INFO Scaled feature created: tenure_proxy_scaled
+2025-08-24 15:29:53,444 INFO Completed feature engineering. New shape: (3000, 36)
+2025-08-24 15:29:53,547 INFO Transformed data saved at /usr/local/airflow/dags/data/transformed/transformed.csv with shape (3000, 36)
+2025-08-24 15:29:53,560 INFO Transformation summary saved at /usr/local/airflow/dags/data/transformed/transformation_summary.md
+2025-08-24 15:29:53,560 INFO ✅ Transformation complete. Outputs saved in /usr/local/airflow/dags/data/transformed
+2025-08-24 15:54:00,095 INFO Loading prepared dataset /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_15-53-42.csv
+2025-08-24 15:54:00,119 INFO Initial dataset shape: (3000, 30)
+2025-08-24 15:54:00,119 INFO Starting feature engineering with shape: (3000, 30)
+2025-08-24 15:54:00,120 INFO Feature created: avg_monthly_spend_per_invoice
+2025-08-24 15:54:00,122 INFO Feature created: engagement_score
+2025-08-24 15:54:00,122 INFO Feature created: tenure_proxy
+2025-08-24 15:54:00,126 INFO Scaled feature created: avg_monthly_spend_per_invoice_scaled
+2025-08-24 15:54:00,127 INFO Scaled feature created: engagement_score_scaled
+2025-08-24 15:54:00,128 INFO Scaled feature created: tenure_proxy_scaled
+2025-08-24 15:54:00,128 INFO Completed feature engineering. New shape: (3000, 36)
+2025-08-24 15:54:00,263 INFO Transformed data saved at /usr/local/airflow/dags/data/transformed/transformed.csv with shape (3000, 36)
+2025-08-24 15:54:00,274 INFO Transformation summary saved at /usr/local/airflow/dags/data/transformed/transformation_summary.md
+2025-08-24 15:54:00,274 INFO ✅ Transformation complete. Outputs saved in /usr/local/airflow/dags/data/transformed
+2025-08-24 16:01:58,794 INFO Loading prepared dataset /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_16-01-16.csv
+2025-08-24 16:01:58,834 INFO Initial dataset shape: (3000, 30)
+2025-08-24 16:01:58,835 INFO Starting feature engineering with shape: (3000, 30)
+2025-08-24 16:01:58,837 INFO Feature created: avg_monthly_spend_per_invoice
+2025-08-24 16:01:58,839 INFO Feature created: engagement_score
+2025-08-24 16:01:58,840 INFO Feature created: tenure_proxy
+2025-08-24 16:01:58,846 INFO Scaled feature created: avg_monthly_spend_per_invoice_scaled
+2025-08-24 16:01:58,847 INFO Scaled feature created: engagement_score_scaled
+2025-08-24 16:01:58,848 INFO Scaled feature created: tenure_proxy_scaled
+2025-08-24 16:01:58,849 INFO Completed feature engineering. New shape: (3000, 36)
+2025-08-24 16:01:59,086 INFO Transformed data saved at /usr/local/airflow/dags/data/transformed/transformed.csv with shape (3000, 36)
+2025-08-24 16:01:59,102 INFO Transformation summary saved at /usr/local/airflow/dags/data/transformed/transformation_summary.md
+2025-08-24 16:01:59,102 INFO ✅ Transformation complete. Outputs saved in /usr/local/airflow/dags/data/transformed
+2025-08-24 16:15:16,777 INFO Loading prepared dataset /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_16-15-02.csv
+2025-08-24 16:15:16,809 INFO Initial dataset shape: (3000, 30)
+2025-08-24 16:15:16,809 INFO Starting feature engineering with shape: (3000, 30)
+2025-08-24 16:15:16,810 INFO Feature created: avg_monthly_spend_per_invoice
+2025-08-24 16:15:16,811 INFO Feature created: engagement_score
+2025-08-24 16:15:16,812 INFO Feature created: tenure_proxy
+2025-08-24 16:15:16,816 INFO Scaled feature created: avg_monthly_spend_per_invoice_scaled
+2025-08-24 16:15:16,817 INFO Scaled feature created: engagement_score_scaled
+2025-08-24 16:15:16,817 INFO Scaled feature created: tenure_proxy_scaled
+2025-08-24 16:15:16,818 INFO Completed feature engineering. New shape: (3000, 36)
+2025-08-24 16:15:16,972 INFO Transformed data saved at /usr/local/airflow/dags/data/transformed/transformed.csv with shape (3000, 36)
+2025-08-24 16:15:16,984 INFO Transformation summary saved at /usr/local/airflow/dags/data/transformed/transformation_summary.md
+2025-08-24 16:15:16,984 INFO ✅ Transformation complete. Outputs saved in /usr/local/airflow/dags/data/transformed
+2025-08-24 16:54:10,495 INFO Loading prepared dataset /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_16-53-55.csv
+2025-08-24 16:54:10,545 INFO Initial dataset shape: (3000, 30)
+2025-08-24 16:54:10,546 INFO Starting feature engineering with shape: (3000, 30)
+2025-08-24 16:54:10,549 INFO Feature created: avg_monthly_spend_per_invoice
+2025-08-24 16:54:10,551 INFO Feature created: engagement_score
+2025-08-24 16:54:10,553 INFO Feature created: tenure_proxy
+2025-08-24 16:54:10,560 INFO Scaled feature created: avg_monthly_spend_per_invoice_scaled
+2025-08-24 16:54:10,561 INFO Scaled feature created: engagement_score_scaled
+2025-08-24 16:54:10,563 INFO Scaled feature created: tenure_proxy_scaled
+2025-08-24 16:54:10,564 INFO Completed feature engineering. New shape: (3000, 36)
+2025-08-24 16:54:10,680 INFO Transformed data saved at /usr/local/airflow/dags/data/transformed/transformed.csv with shape (3000, 36)
+2025-08-24 16:54:10,687 INFO Transformation summary saved at /usr/local/airflow/dags/data/transformed/transformation_summary.md
+2025-08-24 16:54:10,688 INFO ✅ Transformation complete. Outputs saved in /usr/local/airflow/dags/data/transformed

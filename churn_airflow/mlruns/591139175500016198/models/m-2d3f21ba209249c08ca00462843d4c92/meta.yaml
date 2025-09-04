@@ -1,0 +1,10 @@
+artifact_location: file:///C:/churn_airflow-local/mlruns/591139175500016198/models/m-2d3f21ba209249c08ca00462843d4c92/artifacts
+creation_timestamp: 1756031855424
+experiment_id: '591139175500016198'
+last_updated_timestamp: 1756031861492
+model_id: m-2d3f21ba209249c08ca00462843d4c92
+model_type: null
+name: logistic_regression
+source_run_id: 18ac2941e20540fd82efa69424292bce
+status: 2
+status_message: null

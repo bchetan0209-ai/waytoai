@@ -1,0 +1,74 @@
+2025-08-24 14:41:10,387 INFO Loaded /usr/local/airflow/dags/data/transformed/transformed.csv shape=(3000, 36)
+2025-08-24 14:43:14,042 INFO Loaded /usr/local/airflow/dags/data/transformed/transformed.csv shape=(3000, 36)
+2025-08-24 14:47:21,215 INFO Loaded /usr/local/airflow/dags/data/transformed/transformed.csv shape=(3000, 36)
+2025-08-24 14:47:21,225 INFO Saved feature list -> /usr/local/airflow/dags/data/models/features_20250824_144720.json
+2025-08-24 14:47:22,493 INFO Trained logistic_regression
+2025-08-24 14:47:25,969 INFO Trained random_forest
+2025-08-24 14:47:25,982 INFO Saved logistic_regression -> /usr/local/airflow/dags/data/models/logistic_regression_20250824_144720.pkl
+2025-08-24 14:47:26,774 INFO Saved random_forest -> /usr/local/airflow/dags/data/models/random_forest_20250824_144720.pkl
+2025-08-24 14:51:14,380 INFO Loaded /usr/local/airflow/dags/data/transformed/transformed.csv shape=(3000, 36)
+2025-08-24 14:51:14,391 INFO Saved feature list -> /usr/local/airflow/dags/data/models/features_20250824_145114.json
+2025-08-24 14:51:16,488 INFO Trained logistic_regression
+2025-08-24 14:51:18,620 INFO Trained random_forest
+2025-08-24 14:51:18,642 INFO Saved logistic_regression -> /usr/local/airflow/dags/data/models/logistic_regression_20250824_145114.pkl
+2025-08-24 14:51:19,587 INFO Saved random_forest -> /usr/local/airflow/dags/data/models/random_forest_20250824_145114.pkl
+2025-08-24 14:54:31,544 INFO Loaded /usr/local/airflow/dags/data/transformed/transformed.csv shape=(3000, 36)
+2025-08-24 14:54:31,559 INFO Saved feature list -> /usr/local/airflow/dags/data/models/features_20250824_145431.json
+2025-08-24 14:54:33,256 INFO Trained logistic_regression
+2025-08-24 14:54:35,611 INFO Trained random_forest
+2025-08-24 14:54:35,621 INFO Saved logistic_regression -> /usr/local/airflow/dags/data/models/logistic_regression_20250824_145431.pkl
+2025-08-24 14:54:36,299 INFO Saved random_forest -> /usr/local/airflow/dags/data/models/random_forest_20250824_145431.pkl
+2025-08-24 15:01:13,594 INFO Loaded /usr/local/airflow/dags/data/transformed/transformed.csv shape=(3000, 36)
+2025-08-24 15:01:13,602 INFO Saved feature list -> /usr/local/airflow/dags/data/models/features_20250824_150113.json
+2025-08-24 15:01:15,134 INFO Trained logistic_regression
+2025-08-24 15:01:17,266 INFO Trained random_forest
+2025-08-24 15:01:17,272 INFO Saved logistic_regression -> /usr/local/airflow/dags/data/models/logistic_regression_20250824_150113.pkl
+2025-08-24 15:01:17,696 INFO Saved random_forest -> /usr/local/airflow/dags/data/models/random_forest_20250824_150113.pkl
+2025-08-24 15:07:17,384 INFO Loaded /usr/local/airflow/dags/data/transformed/transformed.csv shape=(3000, 36)
+2025-08-24 15:07:17,395 INFO Saved feature list -> /usr/local/airflow/dags/data/models/features_20250824_150717.json
+2025-08-24 15:07:18,628 INFO Trained logistic_regression
+2025-08-24 15:07:20,255 INFO Trained random_forest
+2025-08-24 15:07:20,262 INFO Saved logistic_regression -> /usr/local/airflow/dags/data/models/logistic_regression_20250824_150717.pkl
+2025-08-24 15:07:20,659 INFO Saved random_forest -> /usr/local/airflow/dags/data/models/random_forest_20250824_150717.pkl
+2025-08-24 15:10:02,987 INFO Loaded /usr/local/airflow/dags/data/transformed/transformed.csv shape=(3000, 36)
+2025-08-24 15:10:02,994 INFO Saved feature list -> /usr/local/airflow/dags/data/models/features_20250824_151002.json
+2025-08-24 15:10:04,233 INFO Trained logistic_regression
+2025-08-24 15:10:05,873 INFO Trained random_forest
+2025-08-24 15:10:05,882 INFO Saved logistic_regression -> /usr/local/airflow/dags/data/models/logistic_regression_20250824_151002.pkl
+2025-08-24 15:10:06,403 INFO Saved random_forest -> /usr/local/airflow/dags/data/models/random_forest_20250824_151002.pkl
+2025-08-24 15:30:00,691 INFO Loaded /usr/local/airflow/dags/data/transformed/transformed.csv shape=(3000, 36)
+2025-08-24 15:30:00,698 INFO Saved feature list -> /usr/local/airflow/dags/data/models/features_20250824_153000.json
+2025-08-24 15:30:02,372 INFO Trained logistic_regression
+2025-08-24 15:30:04,116 INFO Trained random_forest
+2025-08-24 15:30:04,134 INFO Saved logistic_regression -> /usr/local/airflow/dags/data/models/logistic_regression_20250824_153000.pkl
+2025-08-24 15:30:04,990 INFO Saved random_forest -> /usr/local/airflow/dags/data/models/random_forest_20250824_153000.pkl
+2025-08-24 15:31:24,960 INFO Loaded /usr/local/airflow/dags/data/transformed/transformed.csv shape=(3000, 36)
+2025-08-24 15:31:24,975 INFO Saved feature list -> /usr/local/airflow/dags/data/models/features_20250824_153124.json
+2025-08-24 15:31:26,621 INFO Trained logistic_regression
+2025-08-24 15:31:29,228 INFO Trained random_forest
+2025-08-24 15:31:29,235 INFO Saved logistic_regression -> /usr/local/airflow/dags/data/models/logistic_regression_20250824_153124.pkl
+2025-08-24 15:31:29,755 INFO Saved random_forest -> /usr/local/airflow/dags/data/models/random_forest_20250824_153124.pkl
+2025-08-24 15:54:07,349 INFO Loaded /usr/local/airflow/dags/data/transformed/transformed.csv shape=(3000, 36)
+2025-08-24 15:54:07,358 INFO Saved feature list -> /usr/local/airflow/dags/data/models/features_20250824_155407.json
+2025-08-24 15:54:08,695 INFO Trained logistic_regression
+2025-08-24 15:54:10,392 INFO Trained random_forest
+2025-08-24 15:54:10,398 INFO Saved logistic_regression -> /usr/local/airflow/dags/data/models/logistic_regression_20250824_155407.pkl
+2025-08-24 15:54:10,972 INFO Saved random_forest -> /usr/local/airflow/dags/data/models/random_forest_20250824_155407.pkl
+2025-08-24 16:02:06,355 INFO Loaded /usr/local/airflow/dags/data/transformed/transformed.csv shape=(3000, 36)
+2025-08-24 16:02:06,363 INFO Saved feature list -> /usr/local/airflow/dags/data/models/features_20250824_160206.json
+2025-08-24 16:02:07,813 INFO Trained logistic_regression
+2025-08-24 16:02:09,784 INFO Trained random_forest
+2025-08-24 16:02:09,813 INFO Saved logistic_regression -> /usr/local/airflow/dags/data/models/logistic_regression_20250824_160206.pkl
+2025-08-24 16:02:10,463 INFO Saved random_forest -> /usr/local/airflow/dags/data/models/random_forest_20250824_160206.pkl
+2025-08-24 16:15:23,096 INFO Loaded /usr/local/airflow/dags/data/transformed/transformed.csv shape=(3000, 36)
+2025-08-24 16:15:23,102 INFO Saved feature list -> /usr/local/airflow/dags/data/models/features_20250824_161523.json
+2025-08-24 16:15:24,726 INFO Trained logistic_regression
+2025-08-24 16:15:26,338 INFO Trained random_forest
+2025-08-24 16:15:26,345 INFO Saved logistic_regression -> /usr/local/airflow/dags/data/models/logistic_regression_20250824_161523.pkl
+2025-08-24 16:15:26,957 INFO Saved random_forest -> /usr/local/airflow/dags/data/models/random_forest_20250824_161523.pkl
+2025-08-24 16:54:15,842 INFO Loaded /usr/local/airflow/dags/data/transformed/transformed.csv shape=(3000, 36)
+2025-08-24 16:54:15,877 INFO Saved feature list -> /usr/local/airflow/dags/data/models/features_20250824_165415.json
+2025-08-24 16:54:17,172 INFO Trained logistic_regression
+2025-08-24 16:54:18,767 INFO Trained random_forest
+2025-08-24 16:54:18,816 INFO Saved logistic_regression -> /usr/local/airflow/dags/data/models/logistic_regression_20250824_165415.pkl
+2025-08-24 16:54:19,324 INFO Saved random_forest -> /usr/local/airflow/dags/data/models/random_forest_20250824_165415.pkl

@@ -1,0 +1,68 @@
+2025-08-24 14:07:21,740 INFO Preparing data from /usr/local/airflow/dags/data/ingested/2025-08-24_14-07-13
+2025-08-24 14:07:25,177 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 14:07:25,184 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 14:07:25,434 INFO ✅ Data preparation complete. Prepared dataset saved at /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_14-07-13.csv
+2025-08-24 14:14:36,707 INFO Preparing data from /usr/local/airflow/dags/data/ingested/2025-08-24_14-14-30
+2025-08-24 14:14:40,512 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 14:14:40,518 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 14:14:40,669 INFO ✅ Data preparation complete. Prepared dataset saved at /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_14-14-30.csv
+2025-08-24 14:17:10,429 INFO Preparing data from /usr/local/airflow/dags/data/ingested/2025-08-24_14-17-03
+2025-08-24 14:17:19,110 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 14:17:19,140 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 14:17:20,095 INFO ✅ Data preparation complete. Prepared dataset saved at /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_14-17-03.csv
+2025-08-24 14:22:06,917 INFO Preparing data from /usr/local/airflow/dags/data/ingested/2025-08-24_14-22-01
+2025-08-24 14:22:10,264 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 14:22:10,271 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 14:22:10,412 INFO ✅ Data preparation complete. Prepared dataset saved at /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_14-22-01.csv
+2025-08-24 14:25:11,274 INFO Preparing data from /usr/local/airflow/dags/data/ingested/2025-08-24_14-24-58
+2025-08-24 14:25:19,690 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 14:25:19,718 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 14:25:20,040 INFO ✅ Data preparation complete. Prepared dataset saved at /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_14-24-58.csv
+2025-08-24 14:40:53,136 INFO Preparing data from /usr/local/airflow/dags/data/ingested/2025-08-24_14-40-46
+2025-08-24 14:40:56,685 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 14:40:56,691 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 14:40:56,852 INFO ✅ Data preparation complete. Prepared dataset saved at /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_14-40-46.csv
+2025-08-24 14:47:02,282 INFO Preparing data from /usr/local/airflow/dags/data/ingested/2025-08-24_14-46-56
+2025-08-24 14:47:05,711 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 14:47:05,716 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 14:47:05,879 INFO ✅ Data preparation complete. Prepared dataset saved at /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_14-46-56.csv
+2025-08-24 14:50:49,295 INFO Preparing data from /usr/local/airflow/dags/data/ingested/2025-08-24_14-50-44
+2025-08-24 14:50:52,801 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 14:50:52,807 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 14:50:52,998 INFO ✅ Data preparation complete. Prepared dataset saved at /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_14-50-44.csv
+2025-08-24 14:54:12,622 INFO Preparing data from /usr/local/airflow/dags/data/ingested/2025-08-24_14-53-59
+2025-08-24 14:54:16,812 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 14:54:16,821 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 14:54:17,012 INFO ✅ Data preparation complete. Prepared dataset saved at /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_14-53-59.csv
+2025-08-24 15:00:55,642 INFO Preparing data from /usr/local/airflow/dags/data/ingested/2025-08-24_15-00-48
+2025-08-24 15:00:59,973 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 15:00:59,980 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 15:01:00,179 INFO ✅ Data preparation complete. Prepared dataset saved at /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_15-00-48.csv
+2025-08-24 15:07:00,000 INFO Preparing data from /usr/local/airflow/dags/data/ingested/2025-08-24_15-06-54
+2025-08-24 15:07:03,467 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 15:07:03,473 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 15:07:03,621 INFO ✅ Data preparation complete. Prepared dataset saved at /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_15-06-54.csv
+2025-08-24 15:09:45,025 INFO Preparing data from /usr/local/airflow/dags/data/ingested/2025-08-24_15-09-40
+2025-08-24 15:09:48,271 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 15:09:48,278 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 15:09:48,457 INFO ✅ Data preparation complete. Prepared dataset saved at /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_15-09-40.csv
+2025-08-24 15:29:42,045 INFO Preparing data from /usr/local/airflow/dags/data/ingested/2025-08-24_15-29-36
+2025-08-24 15:29:45,270 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 15:29:45,277 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 15:29:45,452 INFO ✅ Data preparation complete. Prepared dataset saved at /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_15-29-36.csv
+2025-08-24 15:53:49,326 INFO Preparing data from /usr/local/airflow/dags/data/ingested/2025-08-24_15-53-42
+2025-08-24 15:53:52,859 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 15:53:52,865 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 15:53:53,059 INFO ✅ Data preparation complete. Prepared dataset saved at /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_15-53-42.csv
+2025-08-24 16:01:40,378 INFO Preparing data from /usr/local/airflow/dags/data/ingested/2025-08-24_16-01-16
+2025-08-24 16:01:47,676 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 16:01:47,697 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 16:01:48,254 INFO ✅ Data preparation complete. Prepared dataset saved at /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_16-01-16.csv
+2025-08-24 16:15:08,034 INFO Preparing data from /usr/local/airflow/dags/data/ingested/2025-08-24_16-15-02
+2025-08-24 16:15:11,283 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 16:15:11,290 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 16:15:11,468 INFO ✅ Data preparation complete. Prepared dataset saved at /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_16-15-02.csv
+2025-08-24 16:54:01,238 INFO Preparing data from /usr/local/airflow/dags/data/ingested/2025-08-24_16-53-55
+2025-08-24 16:54:04,445 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 16:54:04,451 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-24 16:54:04,585 INFO ✅ Data preparation complete. Prepared dataset saved at /usr/local/airflow/dags/data/prepared/prepared_2025-08-24_16-53-55.csv

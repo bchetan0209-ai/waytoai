@@ -1,0 +1,11 @@
+pandas>=2.0.0
+scikit-learn>=1.2.0
+psycopg2-binary>=2.9.9
+apache-airflow-providers-postgres>=5.7.1
+joblib>=1.3.0
+matplotlib>=3.8.0
+seaborn>=0.12.2
+numpy>=1.24.0
+pyarrow
+fastparquet
+pendulum>=2.10.0
